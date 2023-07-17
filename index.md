@@ -10,14 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# FRAUD DETECTION
+# PROJECTS
 
-This is a dummy project that was created to understand the workings of git and github.\
 
-## Header 2
 
-> This is a blockquote following a header.
->
+## FRAUD DETECTION
+
+> This is a dummy project created to understand the workings of git and github
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
